@@ -15,7 +15,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot+vue3+小程序的物业管理系统小程序(源代码+数据库+万字论文+文献综述)167
+## 基于Java+Springboot+vue3+小程序的物业管理系统小程序(源代码+数据库+万字论文+文献综述+开题+ppt)167
 
 ## 一、系统介绍
 本项目前后端分离带小程序(可以改为ssm版本)，分为用户、管理员两种角色
